@@ -1,0 +1,1 @@
+Administration complete:27 scenarios/30 stages; selected evidence sealed, final audit valid with documented legacy artifact-hash reconstruction. No scoring. Both frozen source repositories and runtime source/build/dependencies unchanged. Runtime stopped. Two early attempts excluded and replaced. See ../../../pilot-001/reports/administration-completion.md and evidence-index.json.

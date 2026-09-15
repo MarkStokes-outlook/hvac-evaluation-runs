@@ -1,0 +1,4 @@
+pilot-001/*
+__pycache__/
+*.pyc
+!pilot-001/README.md
